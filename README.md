@@ -1,1 +1,1 @@
-#### Linear Regression
+#### Linear Regression and Exploratory Data Analysis
